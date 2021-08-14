@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1>Hi, I'm Noman Shahid <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-<!--
-**NomanShahid8278/NomanShahid8278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Software Engineer (Mid-level Front-end and Junior-level Back-end) with 1.6 years of professional experience in JavaScript and front-end development. My main expertise are in JavaScript and ReactJS. I have successfully developed and delivered 3 ReactJS projects. I have more then 1 year of experience in React.js but I am fully in sync with the lately evolved ReactJS development. I have hands-on experience with back-end technologies like NodeJS and ExpressJS. My goal is to work with my team to make the app development as fast, understandable and elegant as possible.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:mailbox: Reach me out!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noman-shahid-2b475a130/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nomanshahid8278@gmail.com)
+
+- 🌱 I’m currently learning advance ReactJS concepts and GraphQL.
+- :goal_net:	Become a MERN stack developer | Create more GitHub repos | Start contributing to open source projects.
+- 🔭 I’m currently working at @TkXel
+- :computer: Most used line of code `git add .`
+- 📫 How to reach me: nomanshahid8278@gmail.com.
+- 😄 Pronouns: Nomi, Noman .
+- ⚡ Fun fact: I love  :cricket_game:	| :soccer: | :movie_camera:	
+
+
+
+<h2>:rocket: Languages and Tools</h2>
+
+<h3>:point_right:  Programming Language</h3>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+<h3>:point_right:  Front-end</h3>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
