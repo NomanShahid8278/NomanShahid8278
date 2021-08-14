@@ -40,4 +40,4 @@ A Software Engineer (Mid-level Front-end and Junior-level Back-end) with 1.6 yea
 
 <h2>:mailbox: Reach me out!</h2>
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/Noman%20Shahid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noman-shahid-2b475a130/) -->
+[![Linkedin Badge](https://img.shields.io/badge/Noman%20Shahid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noman-shahid-2b475a130/) [![Mail Badge](https://img.shields.io/badge/Noman%20Shahid-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanshahid8278@gmail.com)
