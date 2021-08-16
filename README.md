@@ -3,7 +3,7 @@
 A Software Engineer (Mid-level Front-end and Junior-level Back-end) with 1.6 years of professional experience in JavaScript and front-end development. My main expertise are in JavaScript and ReactJS. I have successfully developed and delivered 3 ReactJS projects. I have more then 1 year of experience in React.js but I am fully in sync with the lately evolved ReactJS development. I have hands-on experience with back-end technologies like NodeJS and ExpressJS. My goal is to work with my team to make the app development as fast, understandable and elegant as possible.
 
 - 🌱 I’m currently learning advance ReactJS concepts and GraphQL.
-- :goal_net:	Become a MERN stack developer | Create more GitHub repos | Start contributing to open source projects.
+- :goal_net:	2021 Goals: Become a MERN stack developer | Create more GitHub repos | Start contributing to open source projects.
 - 🔭 I’m currently working at @TkXel
 - :computer: Most used line of code `git add .`
 - 📫 How to reach me: nomanshahid8278@gmail.com.
