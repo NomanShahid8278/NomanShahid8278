@@ -3,8 +3,8 @@
 I am a dedicated and results-driven Full Stack Developer with over 4 years of expertise in the MERN stack and React Native. A proven track record of delivering high-quality software solutions for diverse industries. Adept at collaborating with cross-functional teams to drive project success. Strong problem-solving skills and a commitment to staying current with emerging technologies, Seeking to contribute technical proficiency and innovative problem-solving abilities to a dynamic development team.
 
 - 🌱 I’m currently learning advance ReactJS concepts and GraphQL.
-- :goal_net:	2022 Goals: Become a MERN stack developer | Create more GitHub repos | Start contributing to open source projects.
-- 🔭 I’m currently working at @TkXel
+- :goal_net:	2023 Goals: Create more GitHub repos | Start contributing to open source projects.
+- 🔭 I’m currently working at @Folio3
 - :computer: Most used line of code `git add .`
 - 📫 How to reach me: nomanshahid8278@gmail.com.
 - 😄 Pronouns: Nomi, Noman .
