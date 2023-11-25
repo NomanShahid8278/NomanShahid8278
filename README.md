@@ -17,7 +17,7 @@ I am a dedicated and results-driven Full Stack Developer with over 4 years of ex
 <h3>:point_right:  Programming Language</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript]([https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://img.shields.io/badge/typescript-%230080FE.svg?style=for-the-badge&logo=typescript&logoColor=%23FFF))
+![TypeScript](https://img.shields.io/badge/typescript-%230080FE.svg?style=for-the-badge&logo=typescript&logoColor=%23FFF)
 
 <h3>:point_right:  Front-end</h3>
 
